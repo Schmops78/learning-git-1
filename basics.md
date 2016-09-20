@@ -6,7 +6,7 @@
 
 * `git add <file>' - places the file in the git staging area
 
-* `git commit` - commits the file into git repository. this was modified
+* `git commit -m "description"` - commits the file into git repository. this was modified
 
 * `git diff` - tells the difference between file and what is stored in the git repository
 
