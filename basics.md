@@ -11,3 +11,7 @@
 * `git diff` - tells the difference between file and what is stored in the git repository
 
 * `git log` - tells you the log history of your commits
+
+* `git reset HEAD <file>` - removes a file from the staging area
+
+* `git checkout -- <file>` - if you've messed up your file, this reverts your file back to what was the most recent save`
