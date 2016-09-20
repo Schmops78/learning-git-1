@@ -14,4 +14,4 @@
 
 * `git reset HEAD <file>` - removes a file from the staging area
 
-* `git checkout -- <file>` - if you've messed up your file, this reverts your file back to what was the most recent save`
+* `git checkout HEAD <file>` - if you've messed up your file, this reverts your file back to what was the most recent save`
